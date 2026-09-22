@@ -1,5 +1,5 @@
 ---
-name: fastapi
+name: python-fastapi
 description: |
   FastAPI is a modern, high-performance Python web framework for building APIs.
   It leverages Python type hints and Pydantic for automatic validation, serialization,

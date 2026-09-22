@@ -1,5 +1,5 @@
 ---
-name: uv
+name: python-uv
 description:
   Guide for using uv, the Python package and project manager. Use this when
   working with Python projects, scripts, packages, or tools.
